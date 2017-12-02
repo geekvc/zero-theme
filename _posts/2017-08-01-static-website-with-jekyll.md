@@ -454,7 +454,7 @@ kramdown:
 * 参考 [application.js](http://www.thomaszhao.cn/2015/01/08/how-do-i-build-this-jekyll-blog/#toctable-of-content-) 获取目录结构，和标题滚动效果。
 * 参考 [JQUERY实现侧边栏随滚动条滚动并固定位置](https://www.mywpku.com/jquery-pin-elements.html) 来固定sidebar的位置，并且效果是：当滚动到指定模块时才置顶该模块。
 
-最后写了个 [TOP.js](https://github.com/lszero/lszero.github.io/blob/master/assets/js/toc/TOC.js) 终于实现得还算满意了。（当然，还要配合 css 使用）
+最后写了个 [TOP.js](https://github.com/lszero/geekvc.github.io/blob/master/assets/js/toc/TOC.js) 终于实现得还算满意了。（当然，还要配合 css 使用）
 
 另外，其它不错的实现：
 
